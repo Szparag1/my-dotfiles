@@ -4,12 +4,12 @@ import requests
 import sys
 
 # OpenWeatherMap API configuration
-API_KEY = "e004aaeb6300e3d18b025aabf4a8ea4b"  # Replace with your OpenWeatherMap API key
-CITY = "3083829"  # Replace with your city or use City ID
+API_KEY = "xxx"  # Replace with your OpenWeatherMap API key
+CITY = "xxx"  # Replace with your city or use City ID
 UNITS = "metric"  # Options: 'metric', 'imperial', 'standard'
 LANG = "pl"  # Language for weather description
-lat = "53.4296"
-lon = "14.6242"
+lat = "xxx"
+lon = "xxx"
 
 # Font Awesome icons mapping
 ICONS = {
